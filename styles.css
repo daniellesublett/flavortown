@@ -1,0 +1,27 @@
+#mainContainer{
+	width: 80%;
+	height: 80%;
+	background-image: url("http://buzzerg.com/wp-content/uploads/8589130409771-red-flames-wallpaper-hd.jpg");
+	margin: auto;
+	padding: 50px;
+}
+
+#recipe{
+	color: white;
+	font-size: 24pt;
+	text-align: center;
+	width: 800px;
+	margin-left: 10%;
+
+}
+
+
+
+#recipe-generator{
+	width: 300px;
+	height: 100px;
+	background-color: red;
+	color: white;
+	margin-left: 40%;
+	margin-top: 200px;
+}
