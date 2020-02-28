@@ -103,8 +103,6 @@ var subject = [
         "brontosaurs",
         "Harlem renaissance",
         "Yolo",
-        "DTOPBWL",
-        "XYLTPDK",
         "wasabi",
         "Fresno-style",
         "round-the-world-in-80-days",
